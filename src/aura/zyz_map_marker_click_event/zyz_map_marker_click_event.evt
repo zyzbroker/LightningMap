@@ -1,0 +1,6 @@
+<aura:event type="COMPONENT" description="a map marker click event">
+    <aura:attribute name="point" type="object" access="public"
+            description="the x, y position relative to the map container"/>
+    <aura:attribute name="data" type="object" access="public"
+        description="A marker associated application data object"/>
+</aura:event>

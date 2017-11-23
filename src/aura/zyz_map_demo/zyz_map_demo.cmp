@@ -1,0 +1,17 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes" access="global">
+<aura:attribute name="markers" type="List"/>
+<aura:attribute name="currentGeo" type="object" access="private"/>
+<aura:attribute name="switch" type="Integer" default="0" access="private"/>
+<aura:handler name="init" value="{!this}" action="{!c.onInit}"/>
+<aura:handler name="zyzMapMarkerClickEvent" event="c:zyz_map_marker_click_event" 
+    action="{!c.onMarkerClick}"/>
+<div class="zyz-demo-container">
+    <lightning:button class="zyz-button" variant="brand" label="Change Markers" onclick="{!c.onChangeMarkers}"/>
+    <div class="zyz-section">
+        <div>Leaflet Map</div>
+        <div class="zyz-content">
+            <c:zyz_map type="leaflet" currentGeoLocation="{!v.currentGeo}" markers="{!v.markers}"/>
+        </div>
+    </div>
+</div>
+</aura:component>

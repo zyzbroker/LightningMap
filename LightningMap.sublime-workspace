@@ -1,0 +1,735 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"justify-all"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"stra",
+				"startTime"
+			],
+			[
+				"lun",
+				"lunch"
+			],
+			[
+				"star",
+				"startTime"
+			],
+			[
+				"brea",
+				"break2"
+			],
+			[
+				"time",
+				"timeSuffix"
+			],
+			[
+				"ent",
+				"entries"
+			],
+			[
+				"is",
+				"isHourValid"
+			],
+			[
+				"su",
+				"timeSuffix"
+			],
+			[
+				"Cm",
+				"CMKOneHub__OwnerId__c"
+			],
+			[
+				"_ge",
+				"_genStatusHtml"
+			],
+			[
+				"tra",
+				"translate3d()"
+			],
+			[
+				"can",
+				"canSelectAll"
+			],
+			[
+				"f",
+				"inline-flex"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"ust",
+				"justify-content"
+			],
+			[
+				"hi",
+				"_hideSpinner"
+			],
+			[
+				"_rec",
+				"_recalculateDatePicker"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"isMU",
+				"isMultipleSelect"
+			],
+			[
+				"_re",
+				"_recalculateDatePickerWithoutValue"
+			],
+			[
+				"_ca",
+				"_caculateTdClass"
+			],
+			[
+				"date",
+				"dateOneForRow4"
+			],
+			[
+				"MONTH",
+				"MONTH_LASTDATE"
+			],
+			[
+				"_initY",
+				"_initYearSelectionAndToday"
+			],
+			[
+				"_cal",
+				"_calculateRow4"
+			],
+			[
+				"_ini",
+				"_initToday"
+			],
+			[
+				"Rem",
+				"removeProjectLocation"
+			],
+			[
+				"spin",
+				"spinners"
+			],
+			[
+				"rem",
+				"removeProjectLocation"
+			],
+			[
+				"inli",
+				"inline"
+			],
+			[
+				"get",
+				"PUBLIC getStackTraceString() \tString"
+			],
+			[
+				"check",
+				"checkStringValueRequired"
+			],
+			[
+				"AP",
+				"AppSettings"
+			],
+			[
+				"_is",
+				"_isInterestedErrorAppEvent"
+			],
+			[
+				"_init",
+				"_initLocations"
+			],
+			[
+				"Add",
+				"AddProjectLocations"
+			],
+			[
+				"rou",
+				"Routes"
+			],
+			[
+				"fil",
+				"filterLocations"
+			],
+			[
+				"cre",
+				"CreateJobs"
+			],
+			[
+				"ca",
+				"calculateServiceWorkers"
+			],
+			[
+				"select",
+				"selectAll"
+			],
+			[
+				"sele",
+				"selectAll"
+			],
+			[
+				"SU",
+				"SUPPORTED_METHODS"
+			],
+			[
+				"In",
+				"Integer\t[Standard Apex Class]"
+			],
+			[
+				"Aura",
+				"AuraHandledException"
+			],
+			[
+				"Au",
+				"AuraHandledException"
+			],
+			[
+				"_rend",
+				"_renderFilter"
+			],
+			[
+				"_ren",
+				"_renderLocations"
+			],
+			[
+				"Fil",
+				"FilterProjectLocations"
+			],
+			[
+				"Fi",
+				"FilterProjectLocations"
+			],
+			[
+				"_res",
+				"_resetCheckbox"
+			],
+			[
+				"Sear",
+				"SearchKeyword"
+			],
+			[
+				"checkon",
+				"checkOneEvent"
+			],
+			[
+				"sear",
+				"SearchKeyword"
+			],
+			[
+				"me",
+				"Methods"
+			],
+			[
+				"searchKey",
+				"searchProjectLoctionsByKeyword"
+			],
+			[
+				"Re",
+				"RemoteActionRequest"
+			],
+			[
+				"P",
+				"PASTE_LIST"
+			],
+			[
+				"da",
+				"dialogDefinition"
+			],
+			[
+				"dial",
+				"dialogDefinition"
+			],
+			[
+				"_",
+				"_sanitizeConfiguration"
+			],
+			[
+				"NO",
+				"NOTIFICATION_ERROR"
+			],
+			[
+				"event",
+				"eventId"
+			],
+			[
+				"even",
+				"eventId"
+			],
+			[
+				"ev",
+				"eventId"
+			],
+			[
+				"Su",
+				"SUCCESS_EVENT"
+			],
+			[
+				"s",
+				"SimpleComponentEvent"
+			],
+			[
+				"lay",
+				"layout"
+			],
+			[
+				"layou",
+				"layoutItem"
+			],
+			[
+				"layo",
+				"layoutItem"
+			],
+			[
+				"lgn",
+				"lightning"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"slds-text",
+				"slds-text-align--center"
+			],
+			[
+				"servci",
+				"serviceWithoutTargets"
+			],
+			[
+				"Format",
+				"formatNumberString"
+			],
+			[
+				"Not",
+				"notCancelledJobCount"
+			],
+			[
+				"Question",
+				"QuestionRecord"
+			],
+			[
+				"format",
+				"formatNumber"
+			],
+			[
+				"createtest",
+				"createTestJobCompletionSet"
+			],
+			[
+				"Quest",
+				"QuestionRecord"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 82,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/aura/zyz_map/zyz_map.cmp",
+			"settings":
+			{
+				"buffer_size": 1241,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Upgrade/Overwrite All Packages"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 246.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/debug",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map"
+	],
+	"file_history":
+	[
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map_demo/zyz_map_demo.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map/zyz_mapHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map_demo/zyz_map_demo.css",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map/zyz_map.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map_demo/zyz_map_demoHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/.gitignore",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map/zyz_map.css",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map/zyz_mapController.js",
+		"/home/davidzhao/Documents/marker.svg",
+		"/home/davidzhao/projects/flow/src/z.js",
+		"/home/davidzhao/topedge/one/property.html",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map_demo/zyz_map_demoController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/SinkAgent/src/aura/zyz_sink/zyz_sink.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map/zyz_mapRenderer.js",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map_marker_click_event/zyz_map_marker_click_event.evt",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/classes/MapDemoController.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/classes/ZyzMapController.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/package.xml",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/aura/LocationChatterMap/LocationChatterMapHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/aura/LocationChatterList/LocationChatterListHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/aura/LocationChatterMap/LocationChatterMap.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/aura/LocationChatterMap/LocationChatterMapController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/aura/LocationChatterLoaded/LocationChatterLoaded.evt",
+		"/home/davidzhao/projects/leaflet/leaflet-src.js",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/aura/LocationChatter/LocationChatter.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/aura/LocationChatter/LocationChatter.css",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/aura/LocationChatterList/LocationChatterList.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/aura/LocationChatterFilters/LocationChatterFiltersHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/aura/LocationChatterFilters/LocationChatterFilters.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/classes/LocationChatterModel.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/classes/LocationChatterModelTest.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/classes/LocationChatterController.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/JobAttemptTriggerAfterUpdateHandler.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/package.xml",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/aura/AccountList/AccountList.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/aura/AccountListItem/AccountListItem.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/TestUtil.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/TestDataUtil.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/classes/AutocreatedRegHandler1499958706010.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/classes/NormalUserLocationChatterModel.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/classes/SuperUserLocationChatterModel.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/classes/ILocationChatterModel.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/classes/AccountController.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/aura/AccountLocator/AccountLocator.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/classes/AccountLocatorController.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/b2bfull/src/aura/AccountMap/AccountMap.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/development/src/package.xml",
+		"/home/davidzhao/Downloads/SalesforceDurableStreamingDemo-master/pages/DurablePushTopicStreamingDemo.page",
+		"/home/davidzhao/Downloads/SalesforceDurableStreamingDemo-master/classes/DurablePushTopicStreamingController.cls",
+		"/home/davidzhao/zyz/salesforce/webapp/onehub/onehub/pkg_cometd.sh",
+		"/home/davidzhao/zyz/salesforce/webapp/onehub/onehub/mini_sinkagent.js",
+		"/home/davidzhao/zyz/salesforce/workspace/SinkAgent/src/package.xml",
+		"/home/davidzhao/zyz/salesforce/webapp/onehub/onehub/js/sinkagent.js",
+		"/home/davidzhao/zyz/salesforce/webapp/onehub/onehub/js (2)/sinkagent.1.0.0.min.js",
+		"/home/davidzhao/zyz/salesforce/webapp/onehub/onehub/js (2)/cometd.3.1.2.min.js",
+		"/home/davidzhao/zyz/salesforce/webapp/onehub/onehub/pck_cometd.sh",
+		"/home/davidzhao/zyz/salesforce/webapp/onehub/onehub/mini_cometd.js",
+		"/home/davidzhao/zyz/salesforce/workspace/SinkAgent/.gitignore",
+		"/home/davidzhao/projects/cometd-3.1.2/cometd-javascript/examples-vanilla/src/main/webapp/vanilla-examples/chat/index.html",
+		"/home/davidzhao/projects/cometd-3.1.2/cometd-javascript/examples-vanilla/src/main/webapp/vanilla-examples/chat/chat.js",
+		"/home/davidzhao/projects/cometd/cometd-documentation/pom.xml",
+		"/home/davidzhao/projects/cometd/cometd-documentation/target/resources/application.js",
+		"/home/davidzhao/projects/cometd/pom.xml",
+		"/home/davidzhao/projects/cometd/cometd-documentation/target/resources/Demo.java",
+		"/home/davidzhao/projects/cometd-3.1.3/cometd-distribution/src/main/assembly/distribution.xml",
+		"/home/davidzhao/projects/cometd-3.1.3/cometd-javascript/examples-jquery/src/main/webapp/jquery-examples/reload/application.js",
+		"/home/davidzhao/projects/cometd-3.1.3/cometd-javascript/dojo/src/main/webapp/js/dojox/cometd/main.js",
+		"/home/davidzhao/projects/cometd-3.1.3/cometd-javascript/dojo/src/main/webapp/js/dojox/cometd/timesync.js",
+		"/home/davidzhao/projects/cometd-3.1.3/cometd-javascript/examples-vanilla/src/main/webapp/vanilla-examples/chat/chat.css",
+		"/home/davidzhao/Downloads/SalesforceDurableStreamingDemo-master/staticresources/cometd.resource",
+		"/home/davidzhao/projects/cometd-3.1.3/cometd-demo/pom.xml",
+		"/home/davidzhao/Downloads/SalesforceDurableStreamingDemo-master/staticresources/jquery_cometd.resource",
+		"/home/davidzhao/projects/cometd-3.1.3/cometd-documentation/src/main/resources/images/favicon.ico",
+		"/home/davidzhao/Downloads/SalesforceDurableStreamingDemo-master/staticresources/jquery.resource",
+		"/home/davidzhao/zyz/salesforce/dataloader/src/main/java/com/salesforce/dataloader/controller/Controller.java",
+		"/home/davidzhao/zyz/salesforce/dataloader/src/main/java/com/salesforce/dataloader/dyna/SforceDynaBean.java",
+		"/home/davidzhao/zyz/salesforce/dataloader/src/main/java/com/salesforce/dataloader/dyna/SObjectReference.java",
+		"/home/davidzhao/zyz/salesforce/dataloader/src/main/java/com/salesforce/dataloader/config/LastRun.java",
+		"/home/davidzhao/zyz/salesforce/workspace/qua_unmanaged/src/classes/Jobs.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/qua_unmanaged/src/classes/JobsCSV.cls",
+		"/home/davidzhao/Downloads/SalesforceDurableStreamingDemo-master/components/DurableGenericEventDisplay.component",
+		"/home/davidzhao/Downloads/SalesforceDurableStreamingDemo-master/staticresources/cometdReplayExtension.resource",
+		"/home/davidzhao/Downloads/SalesforceDurableStreamingDemo-master/components/DurablePushTopicEventDisplay.component",
+		"/home/davidzhao/Downloads/SalesforceDurableStreamingDemo-master/staticresources/cometdReplayExtension.resource-meta.xml",
+		"/home/davidzhao/Downloads/SalesforceDurableStreamingDemo-master/applications/Durable_Streaming_Demo.app",
+		"/home/davidzhao/Downloads/SalesforceDurableStreamingDemo-master/pages/DurableGenericStreamingDemo.page",
+		"/home/davidzhao/zyz/salesforce/workspace/SinkAgent/src/classes/SinkRemoteController.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/SinkAgent/src/aura/zyz_sink_error_event/zyz_sink_error_event.evt",
+		"/home/davidzhao/tools/eclipse/eclipse-workspace/SFStreamingAgent/src/package.xml",
+		"/home/davidzhao/Downloads/zzz.cls",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/README.md",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/DemoSignature/DemoSignature.css",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/ESignature/ESignatureHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/ESignature/ESignature.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/DemoSignature/DemoSignature.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/DemoSignature/DemoSignatureController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/topedge.sublime-project",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/package.xml",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/ESignature/ESignature.css",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/ESignature/ESignatureController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/.gitignore",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/ESignature/ESignatureRenderer.js",
+		"/home/davidzhao/zyz/salesforce/workspace/walgreenpartial/src/aura/MyTeamTimeEntry/MyTeamTimeEntry.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/DemoSignature/DemoSignatureRenderer.js",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/DemoSignature/DemoSignature.app",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamMemberShift/MyTeamMemberShiftHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamMemberTimeEntryItem/MyTeamMemberTimeEntryItemHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamMemberShift/MyTeamMemberShift.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamMemberTimeEntrySummary/MyTeamMemberTimeEntrySummary.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamMemberTimeEntryItem/MyTeamMemberTimeEntryItem.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamMemberTimeEntryItem/MyTeamMemberTimeEntryItemController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamMemberTimeEntryItem/MyTeamMemberTimeEntryItem.css",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamMemberTimeEntryCard/MyTeamMemberTimeEntryCard.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamMemberShiftHightlight/MyTeamMemberShiftHightlight.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamMemberShift/MyTeamMemberShiftController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamHeader/MyTeamHeader.css",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamMemberShiftHightlight/MyTeamMemberShiftHightlight.css",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamMemberTimeEntryCard/MyTeamMemberTimeEntryCard.css",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamMemberShift/MyTeamMemberShift.css",
+		"/home/davidzhao/zyz/salesforce/workspace/lightningDevSandbox/src/aura/SimpleComponentEvent/SimpleComponentEvent.evt",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/SimpleComponentEvent/SimpleComponentEvent.evt",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamMemberTimeEntrySummary/MyTeamMemberTimeEntrySummary.css",
+		"/home/davidzhao/zyz/salesforce/workspace/david@onehubdavid.dev/src/aura/MyTeamMemberCheckInOutTimeCard/MyTeamMemberCheckInOutTimeCard.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamCheckInCheckOutTimeCardItem/MyTeamCheckInCheckOutTimeCardItem.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamHeader/MyTeamHeader.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamCheckInCheckOut/MyTeamCheckInCheckOut.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/iDish/iDish.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/ZTester/ZTester.cmp"
+	],
+	"find":
+	{
+		"height": 80.0
+	},
+	"find_in_files":
+	{
+		"height": 206.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"   ",
+			"     ",
+			"\\n",
+			"span",
+			"  ",
+			"   ",
+			"\\n",
+			"10",
+			"t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" ",
+			"",
+			" ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 82,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/aura/zyz_map/zyz_map.cmp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1241,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 90.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 228.0
+	},
+	"output.exec":
+	{
+		"height": 216.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "LightningMap.sublime-project",
+	"replace":
+	{
+		"height": 134.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 374.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
