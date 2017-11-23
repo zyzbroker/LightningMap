@@ -339,23 +339,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": ".gitignore",
-			"settings":
-			{
-				"buffer_size": 82,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "src/aura/zyz_map/zyz_map.cmp",
-			"settings":
-			{
-				"buffer_size": 1241,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -395,27 +378,27 @@
 	[
 		"/home/davidzhao/zyz/salesforce/workspace/LightningMap",
 		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/debug",
-		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src",
-		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura",
-		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map"
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/images"
 	],
 	"file_history":
 	[
-		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map_demo/zyz_map_demo.cmp",
-		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map/zyz_mapHelper.js",
-		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map_demo/zyz_map_demo.css",
-		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map/zyz_map.cmp",
-		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map_demo/zyz_map_demoHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/README.md",
 		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/.gitignore",
+		"/home/davidzhao/zyz/salesforce/workspace/SinkAgent/README.md",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map/zyz_mapHelper.js",
 		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map/zyz_map.css",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map_marker_click_event/zyz_map_marker_click_event.evt",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map_demo/zyz_map_demo.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map_demo/zyz_map_demoController.js",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map_demo/zyz_map_demoHelper.js",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map/zyz_map.cmp",
+		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map_demo/zyz_map_demo.css",
 		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map/zyz_mapController.js",
 		"/home/davidzhao/Documents/marker.svg",
 		"/home/davidzhao/projects/flow/src/z.js",
 		"/home/davidzhao/topedge/one/property.html",
-		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map_demo/zyz_map_demoController.js",
 		"/home/davidzhao/zyz/salesforce/workspace/SinkAgent/src/aura/zyz_sink/zyz_sink.cmp",
 		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map/zyz_mapRenderer.js",
-		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/aura/zyz_map_marker_click_event/zyz_map_marker_click_event.evt",
 		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/classes/MapDemoController.cls",
 		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/classes/ZyzMapController.cls",
 		"/home/davidzhao/zyz/salesforce/workspace/LightningMap/src/package.xml",
@@ -526,9 +509,7 @@
 		"/home/davidzhao/zyz/salesforce/workspace/david@onehubdavid.dev/src/aura/MyTeamMemberCheckInOutTimeCard/MyTeamMemberCheckInOutTimeCard.cmp",
 		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamCheckInCheckOutTimeCardItem/MyTeamCheckInCheckOutTimeCardItem.cmp",
 		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamHeader/MyTeamHeader.cmp",
-		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamCheckInCheckOut/MyTeamCheckInCheckOut.cmp",
-		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/iDish/iDish.cmp",
-		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/ZTester/ZTester.cmp"
+		"/home/davidzhao/zyz/salesforce/workspace/topedge/src/aura/MyTeamCheckInCheckOut/MyTeamCheckInCheckOut.cmp"
 	],
 	"find":
 	{
@@ -576,69 +557,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": ".gitignore",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 82,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								26,
-								26
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "src/aura/zyz_map/zyz_map.cmp",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 1241,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/XML/XML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				}
 			]
 		}
 	],

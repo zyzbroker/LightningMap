@@ -33,7 +33,7 @@ data: A object literal binded to the Marker
 ```
     { 
         'lat': latitude,
-        'lng': lngitude,
+        'lng': longitude,
         'html': if empty, no popup is binded to the marker on the map.
         'data': object literal of the data object that you want to bind to each marker.
     }
@@ -51,6 +51,11 @@ data: A object literal binded to the Marker
         console.log(evt.getParams());   
     },
 ```
+
+### About Marker SVG Icon
+We have customized the marker icon to cotainer label with length <= 3 characters. The map will try to align 
+the label in the central place with the label length.
+
 
 ## We are using the following opensource map library Leaflet 1.2.0
 [Leaflet JS](http://leafletjs.com/index.html)
