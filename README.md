@@ -53,7 +53,7 @@ data: A object literal binded to the Marker
 ```
 
 ### About Marker SVG Icon
-We have customized the marker icon to cotainer label with length <= 3 characters. The map will try to align 
+We have customized the marker icon to cotain a label with length <= 3 characters inside the SVG. The map will try to align 
 the label in the central place with the label length.
 
 
